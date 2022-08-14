@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Jupiter';
+  src: url('Jupiter.svg#Jupiter') format('svg'),
+       url('Jupiter.ttf') format('truetype'),
+       url('Jupiter.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'jupiter';
+  src: url('jupiter.eot');
+  src: url('jupiter.eot?#iefix') format('embedded-opentype'),
+       url('jupiter.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
